@@ -52,7 +52,7 @@ Number Block:
 7)
     (example!)
     multiple colored number blocks to one will combine the digits into a value based on color
-    one colored number block to one other number blocks will not set the value based on color (that would be a random * 10 or *100 or ....)
+    one colored number block to one other number blocks will not set the value based on color (that would be a random * 10 or *100 or...)
 8)
     (example!)
     negative values get carried over white(/..),
